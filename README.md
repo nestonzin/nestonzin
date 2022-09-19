@@ -5,13 +5,7 @@
 
 
 
-<div align="center">
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestormacedo28)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nestoned)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thesameguy12) 
-</div>
 
 
 <div align="center">
@@ -52,4 +46,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestonzin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nestonzin&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestonzin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+<div align="center">
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestormacedo28)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nestoned)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thesameguy12) 
 </div>
