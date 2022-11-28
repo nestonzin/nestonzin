@@ -1,7 +1,6 @@
-<div align="center">
-
-<h1>👋Olá eu sou Nestor</h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋🏻+Ola+Mundo!+Meu+nome+é+Nestor;Tenho+interesse+em+FrontEnd+Develop!&duration=6000">
+</p>
 
 
 
