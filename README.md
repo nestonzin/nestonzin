@@ -22,7 +22,6 @@
 <img height="35em" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white"/>
-<img height="35em" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
 <img height="35em" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
