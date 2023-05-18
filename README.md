@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋🏻+Ola+Mundo!+Meu+nome+é+Nestor;Tenho+interesse+em+FrontEnd+Develop!&duration=6000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋🏻+Ola+Mundo!+Meu+nome+é+Nestor;Tenho+interesse+em+FrontEnd+Develop!&duration=8000">
 </p>
 
 
@@ -33,6 +33,9 @@
 <img height="35em" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
+<img height="35em" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
+<img height="35em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img height="35em" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 
 
 
